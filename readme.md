@@ -20,7 +20,7 @@ This project focuses on the comparative analysis of different Machine Learning a
 - **Interactive Deployment**: User-friendly interface built with Streamlit.
 
 ## � Screenshots
-*(Add your screenshots here)*
+
 ![Dashboard Overview](docs/dashboard_screenshot.png)
 
 ## �📂 Project Structure
