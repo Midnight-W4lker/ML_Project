@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+yfinance
+scikit-learn
+statsmodels
+xgboost
+streamlit
+joblib
+fastapi
+uvicorn
+pydantic
+plotly
+prophet
+fpdf
