@@ -21,7 +21,6 @@ This project focuses on the comparative analysis of different Machine Learning a
 
 ## � Screenshots
 *(Add your screenshots here)*
-> Tip: Take a screenshot of your running app and save it as `docs/dashboard_screenshot.png`
 ![Dashboard Overview](docs/dashboard_screenshot.png)
 
 ## �📂 Project Structure
